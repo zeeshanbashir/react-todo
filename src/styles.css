@@ -1,0 +1,17 @@
+.App {
+  font-family: sans-serif;
+  text-align: left;
+}
+
+.listItem {
+  border: 1px ;
+  color:blue
+}
+
+.blue {
+  color : blue
+}
+
+.red {
+  color: red
+}
